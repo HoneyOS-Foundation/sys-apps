@@ -1,6 +1,3 @@
 [submodule "beofetch"]
 	path = beofetch
 	url = https://github.com/HoneyOS-Foundation/beofetch.git
-[submodule "jsh"]
-	path = jsh
-	url = https://github.com/HoneyOS-Foundation/jsh.git
